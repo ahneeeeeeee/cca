@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(50, 103, 128);
+    text-align: center;
+}
+
+header p {
+    color: lightgrey;
+}
+
+header p span {
+    color: lightslategray;
+}
+
+.color {
+    background-color: yellow;
+} 

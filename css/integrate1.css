@@ -1,0 +1,106 @@
+html {
+    background-color: lightblue;
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 87%;                 
+}
+
+.container {
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(239, 208, 167);
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+  }
+
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(166, 224, 205);
+}
+
+header h1 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 165%;
+}
+
+header p {
+    margin: 0;
+}
+
+.content-area {
+    border-top: 3px solid pink;
+    border-bottom: 3px solid pink;
+}
+
+.main {
+    width: 70%;
+    float: left;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.support {
+    width: 30%;
+    float: left;
+    background-color: bisque;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+    font-size: 85%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fix {
+    clear: both;
+}
+
+p {
+    color: lightgoldenrodyellow;
+}
+
+footer p {
+    color: aquamarine;
+    text-align: center;
+    font-size: 85%;
+    color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: lightgreen;
+    text-align: center;
+    font-size: 165%;
+    font-weight: normal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header p {
+    color: beige;
+}
+
+aside {
+    color: blanchedalmond;
+}
+
+header p span {
+    color: lightcoral;
+}
+
+.highlight {
+    color: lightpink;
+    background-color: antiquewhite;
+}
+
+.brand-color {
+    color: lightseagreen;
+    background-color: blanchedalmond;
+}
